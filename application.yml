@@ -4,26 +4,21 @@ eureka:
         defaultZone: http://localhost:8010/eureka/
 ---
 spring:
-  profiles: 
-    active: lab-4-subject
+  profiles: lab-4-subject
 words: I,You,He,She,It
 ---
 spring:
-  profiles: 
-    active: lab-4-verb
+  profiles: lab-4-verb
 words: ran,knew,had,saw,bought
 ---
 spring:
-  profiles: 
-    active: lab-4-article
+  profiles: lab-4-article
 words: a,the
 ---
 spring:
-  profiles: 
-    active: lab-4-adjective
+  profiles: lab-4-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
-  profiles: 
-    active: lab-4-noun
+  profiles: lab-4-noun
 words: boat,book,vote,seat,backpack,partition,groundhog
