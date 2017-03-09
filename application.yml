@@ -21,4 +21,4 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: lab-4-noun
-words: house
+words: table
